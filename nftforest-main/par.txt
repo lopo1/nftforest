@@ -1,0 +1,23 @@
+TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+TLedifbjCsxi4B4WGYahMNgMUupN4WmRd8
+TQ7EpS1yW11TLwhUWw2woNd72FQvmiY5Wu
+TTMLZ9e14KVCXkQrCSGRBS4r5iQPXGP1bA
+TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7
+TKy2MGKR6rQKBwM7dneUEnh2kvsodRR1Jo
+0x284367a1c6c6cfee60d3343b399e8353da9a1482bdfddb549d217787a4c558f2
+4000000
+
+
+_userIncome[address(uint160(uint256(0x4175261d059c119730e65e7d6c93fe01fc2a4a4641)))].ref = 15800000;
+        _userIncome[address(uint160(uint256(0x41549d30c47c0b0fd5777438cae648d75d70955ad1)))].ref = 790000000;
+        _userIncome[address(uint160(uint256(0x41a8bf57a3e7cb28b0c17e998b9ba975db4a1e38d2)))].ref = 23700000;
+        _userIncome[address(uint160(uint256(0x41c33ac5c4559f544cc963329cf33906f74e65c6c7)))].ref = 15800000;
+        _userIncome[address(uint160(uint256(0x416abecc0287650f5e251f30e07e4f8eb4d9973ba6)))].ref = 31600000;
+        _userIncome[address(uint160(uint256(0x41aa1bbe4dfe73f9e3adc5ed6a43bd0971cc872ba4)))].ref = 7900000;
+        _userIncome[address(uint160(uint256(0x415c756ff3910054c5a3b3d5f73d54efff0a169a47)))].ref = 15800000;
+        _userIncome[address(uint160(uint256(0x41e9e807b4931158e2440b67830740f3b34428a2c0)))].ref = 7900000;
+        _userIncome[address(uint160(uint256(0x41175810fcab3244685cd5058b6d30351a708cf353)))].ref = 15800000;
+        _userIncome[address(uint160(uint256(0x417bf53d59a62a48c8f58a118ffefe6bd390cddc75)))].ref = 31600000;
+        _userIncome[address(uint160(uint256(0x413348d84e1cd7eda95e6d109729c93df9681dd98e)))].ref = 1580000000;
+        _userIncome[address(uint160(uint256(0x419b1178d57879de425e3c8b4f18619cbbfbe0d607)))].ref = 7900000;
+        _userIncome[address(uint160(uint256(0x413187bca83ea5b6e004815587563f32f20ad7570a)))].ref = 15800000;
